@@ -1,2 +1,2 @@
-# E-TRPIM
-E-TRPIM
+# Selected funcs for VNU journal
+
